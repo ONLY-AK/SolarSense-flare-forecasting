@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Frontend
+node_modules/
+react-tailwind-vanilla/dist/
+
+
+data/processed/train_direct.csvmodels/regressors/flux_lstm_60step.pth
